@@ -1,0 +1,44 @@
+{
+    "name": "ar-vscode-theme",
+    "displayName": "AR-VSCode-Theme",
+    "publisher": "aaryarajoju",
+    "description": "...",
+    "version": "0.0.1",
+    "maintainers": [
+		"AARYA RAJOJU <code.aarya@gmail.com>"
+    ],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/aaryarajoju/AR-VSCode-Theme.git"
+    },
+    "bugs": {
+		"url": "https://github.com/aaryarajoju/AR-VSCode-Theme/issues"
+	},
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "aaryarajoju",
+        "ar",
+		"dark",
+		"modern",
+        "contrasting"
+	],
+	"icon": "icon.jpg",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "The AR Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/The_AR_Theme-color-theme.json"
+            }
+        ]
+    }
+}
