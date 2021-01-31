@@ -2,11 +2,12 @@
     "name": "ar-vscode-theme",
     "displayName": "AR-VSCode-Theme",
     "publisher": "aaryarajoju",
-    "description": "...",
+    "description": "AR Theme for VS Code",
     "version": "0.0.1",
     "maintainers": [
 		"AARYA RAJOJU <code.aarya@gmail.com>"
     ],
+    "license": "MIT",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/aaryarajoju/AR-VSCode-Theme.git"
@@ -22,6 +23,7 @@
     ],
     "keywords": [
         "aaryarajoju",
+        "theme",
         "ar",
 		"dark",
 		"modern",
